@@ -1,4 +1,7 @@
 #incluse<stdio.h>
 main() {
-	return 0;
+int a,b;
+	printf("¬ведите a и b");
+	scanf("%d, %d", &a, &b);
+return 0;
 }
